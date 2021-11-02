@@ -1,0 +1,36 @@
+
+
+
+html {
+    background: url('https://www.solofondos.com/wp-content/uploads/2015/11/imagenes-de-fondo-para-pagina-web.jpg');
+}
+
+
+.divClass h1 {
+    color: #48400C; 
+    border: 5px outset #8EA19C;
+ }
+
+ .divClass {
+     width: 600px;
+     margin: 0 auto;
+ }
+
+  #thirDiv img{
+     width: 90%;
+ }
+  #thirDiv {
+      display: flex;
+      justify-content: center;
+      position: relative;
+      height: 600px;
+      width: 500px;
+      padding: 50px;
+      margin: 0 auto;
+      border: 1px solid black;
+      background: #8EA19C;
+  }
+  #spanId {
+      font-size: 18px;
+      margin: 50px;
+  }
